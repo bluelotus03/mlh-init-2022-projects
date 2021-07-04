@@ -17,7 +17,6 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 #### Repo: https://github.com/lil-p3tri3/web-scrape-python
 #### Demo: https://youtu.be/6uXzPcZ6lWU
 
-
 ## Build a Twilio Powered Game 
 ### SMS Hangman
 #### Repo: https://github.com/lil-p3tri3/guess-the-word
@@ -27,6 +26,9 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 ### My Checklist using a Replit Template
 #### Replit: https://VueJS-Starter.lilp3trie.repl.co
 #### Demo: N/A
+#### Also counting for "Hack with another Hacker"
+#### Also counting for "Livestream Yourself Completing a Challenge"
+![to-do-app](https://user-images.githubusercontent.com/25125692/124373788-5ae8a080-dc63-11eb-955b-ffc138a9cfbc.PNG)
 
 # Others - Not for Devpost, Submitted to a Form
 ## Create a Spark AR Filter
