@@ -5,7 +5,7 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 ## Create a Starter Pack for Someone Else
 ### Website Starter Kit
 #### Repo: https://github.com/lil-p3tri3/mlh-bootstrap-starter-kit
-#### Demo: 
+#### Demo: N/A
 
 ## Explore a New Language
 ### Learning C# Basics 
