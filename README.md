@@ -28,7 +28,6 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 #### Demo: N/A
 #### Also counting for "Hack with another Hacker"
 #### Also counting for "Livestream Yourself Completing a Challenge"
-![to-do-app](https://user-images.githubusercontent.com/25125692/124373788-5ae8a080-dc63-11eb-955b-ffc138a9cfbc.PNG)
 
 # Others - Not for Devpost, Submitted to a Form
 ## Create a Spark AR Filter
