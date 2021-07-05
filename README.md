@@ -5,7 +5,7 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 # -----------------------------------------------------------
 # New - have not yet gotten hackathon credit
 # 
-## "Build with a Starter Pack" 
+## "Build with a Starter Pack" (still in progress tonight - going to livestream shortly)
 ### Coffee Lovers Website - built with this starter kit (also made at the hackathon): <https://github.com/lil-p3tri3/mlh-bootstrap-starter-kit>
 #### Repo: https://github.com/lil-p3tri3/coffeefans
 
