@@ -6,9 +6,11 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 # New - have not yet gotten hackathon credit
 # 
 ## "Build with a Starter Pack" (still in progress tonight - going to livestream shortly)
+## & "Create a Demo Video of Your Challenge"
 ### Coffee Lovers Website
 #### Starter Kit: <https://github.com/lil-p3tri3/mlh-bootstrap-starter-kit>
 #### Site: https://coffeefans.lilp3trie.repl.co
+#### Demo: https://youtu.be/cJorpvFMQ0g
 #### Repo: https://github.com/lil-p3tri3/coffeefans
 
 # 
