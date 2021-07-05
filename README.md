@@ -46,7 +46,7 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 #### Replit: https://VueJS-Starter.lilp3trie.repl.co
 
 # 
-## Create a Starter Pack for Someone Else
+## "Create a Starter Pack for Someone Else"
 ### Website Starter Kit
 #### Repo: https://github.com/lil-p3tri3/mlh-bootstrap-starter-kit
 
@@ -55,19 +55,19 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 # ----------------------------------------------------------
 # Others - have already gotten hackathon credit
 # 
-## Explore a New Language
+## "Explore a New Language"
 ### Learning C# Basics 
 #### Replit: https://replit.com/@lilP3trie/LearningC#main.cs
 #### Demo: https://youtu.be/3ZUr3l1v7z4
 
 # 
-## Use Web Scraping 
+## "Use Web Scraping" 
 ### Web Scraping with Pthon
 #### Repo: https://github.com/lil-p3tri3/web-scrape-python
 #### Demo: https://youtu.be/6uXzPcZ6lWU
 
 # 
-## Create a Spark AR Filter
+## "Create a Spark AR Filter"
 ### MLH INIT Filter
 #### Demo: https://youtu.be/YEbTN2MoKjg
 
