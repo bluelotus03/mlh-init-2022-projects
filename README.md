@@ -6,7 +6,6 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 # New - have not yet gotten hackathon credit
 # 
 ## "Build with a Starter Pack" (still in progress tonight - going to livestream shortly)
-## & "Create a Demo Video of Your Challenge"
 ### Coffee Lovers Website
 #### Starter Kit: <https://github.com/lil-p3tri3/mlh-bootstrap-starter-kit>
 #### Site: https://coffeefans.lilp3trie.repl.co
@@ -28,7 +27,6 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 ## "Create a Chrome Extension"
 ## & "Paired Programming Session with another Hacker"
 ## & "Create a Productivity Hack"
-## & "Create a Demo Video of Your Challenge"
 #### Repo: https://github.com/lil-p3tri3/first-chrome-extension
 #### Demo: https://youtu.be/C07I7aws8Qw
 #### To show paired programming: 
@@ -37,7 +35,6 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 
 # 
 ## "Build a Twilio Powered Game" 
-## & "Create a Demo Video of Your Challenge"
 ### SMS Hangman
 #### Repo: https://github.com/lil-p3tri3/guess-the-word
 #### Demo: https://youtu.be/VKOjyqBhQPg
