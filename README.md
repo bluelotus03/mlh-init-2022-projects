@@ -15,13 +15,12 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 ## "Build and Host a Personal Website using Replit"
 ### Portfolio site using a template on Replit
 #### Site: https://Portfolio-Site-Template-1.lilp3trie.repl.co
-#### Demo: N/A
 
 # 
 ## "Build a Calculator"
 ### A Basic Calculator with Python
+#### Site: https://replit.com/@lilP3trie/Build-a-Calculator#main.py
 #### Repo: https://github.com/lil-p3tri3/build-basic-calculator
-#### Demo: N/A
 
 # 
 ## "Create a Chrome Extension"
@@ -45,13 +44,12 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 ## "Create a To-Do App"
 ### My Checklist using a Replit Template
 #### Replit: https://VueJS-Starter.lilp3trie.repl.co
-#### Demo: N/A
 
 # 
 ## Create a Starter Pack for Someone Else
 ### Website Starter Kit
 #### Repo: https://github.com/lil-p3tri3/mlh-bootstrap-starter-kit
-#### Demo: N/A
+
 # 
 
 # ----------------------------------------------------------
