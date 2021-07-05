@@ -62,7 +62,7 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 
 # 
 ## "Use Web Scraping" 
-### Web Scraping with Pthon
+### Web Scraping with Python
 #### Repo: https://github.com/lil-p3tri3/web-scrape-python
 #### Demo: https://youtu.be/6uXzPcZ6lWU
 
