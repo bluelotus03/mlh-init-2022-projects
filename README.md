@@ -1,6 +1,9 @@
 # mlh-init-2022-projects
 A hub for listing projects and challenges I completed for this hackathon.
 
+## See a recap of the event
+[![Video Preview Image](https://img.youtube.com/vi/5fSmiRu8R_o/0.jpg)](https://www.youtube.com/watch?v=5fSmiRu8R_o)
+
 # 
 ## "Build with a Starter Pack" 
 ### Coffee Lovers Website
