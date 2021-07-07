@@ -52,6 +52,7 @@ A hub for listing projects and challenges I completed for this hackathon.
 # 
 ## "Create a Starter Pack for Someone Else"
 ### Website Starter Kit
+#### Live Preview: https://bluelotus03.github.io/mlh-bootstrap-starter-kit/
 #### Repo: https://github.com/bluelotus03/mlh-bootstrap-starter-kit
 ![starterkit](https://user-images.githubusercontent.com/25125692/124698476-f0c83980-deb6-11eb-943e-b5817719719a.PNG)
 
