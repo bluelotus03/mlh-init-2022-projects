@@ -25,8 +25,8 @@ A hub for listing projects and challenges I completed for this hackathon.
 
 # 
 ## "Create a Chrome Extension"
-## & "Paired Programming Session with another Hacker"
-## & "Create a Productivity Hack"
+### & "Paired Programming Session with another Hacker"
+### & "Create a Productivity Hack"
 #### Repo: https://github.com/lil-p3tri3/first-chrome-extension
 #### Demo: https://youtu.be/C07I7aws8Qw
 #### To show paired programming: 
