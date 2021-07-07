@@ -2,7 +2,7 @@
 A hub for listing projects and challenges I completed for this hackathon.
 
 # 
-## "Build with a Starter Pack" (still in progress tonight - going to livestream shortly)
+## "Build with a Starter Pack" 
 ### Coffee Lovers Website
 #### Starter Kit: <https://github.com/lil-p3tri3/mlh-bootstrap-starter-kit>
 #### Site: https://coffeefans.lilp3trie.repl.co
