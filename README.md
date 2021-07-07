@@ -20,7 +20,7 @@ A hub for listing projects and challenges I completed for this hackathon.
 ## "Build and Host a Personal Website using Replit"
 ### Portfolio site using a template on Replit
 #### Site: https://Portfolio-Site-Template-1.lilp3trie.repl.co
-
+![portfoliosite](https://user-images.githubusercontent.com/25125692/124698550-135a5280-deb7-11eb-861c-06fca12f54d9.PNG)
 
 # 
 # 
@@ -37,21 +37,23 @@ A hub for listing projects and challenges I completed for this hackathon.
 ### & "Create a Productivity Hack"
 #### Repo: https://github.com/bluelotus03/first-chrome-extension
 #### Demo: https://youtu.be/7UJyrwatuBc
-#### To show paired programming: 
-##### (My name is at the bottom, and I did a live VS Code session working with elreydetoda)
-![pairProgramming](https://user-images.githubusercontent.com/25125692/124408066-6f847180-dd13-11eb-8aa6-c98d3fbc1bfd.PNG)
+#### Completed through a live VS Code session working with elreydetoda
+![chromeext](https://user-images.githubusercontent.com/25125692/124698445-df7f2d00-deb6-11eb-9c30-0fb086c7ac9d.PNG)
 
+# 
 # 
 ## "Build a Twilio Powered Game" 
 ### SMS Hangman
 #### Repo: https://github.com/bluelotus03/guess-the-word
 #### Demo: https://youtu.be/VKOjyqBhQPg
+![twiliogame](https://user-images.githubusercontent.com/25125692/124698460-eb6aef00-deb6-11eb-88e8-a5d3369b3f31.PNG)
 
+# 
 # 
 ## "Create a Starter Pack for Someone Else"
 ### Website Starter Kit
 #### Repo: https://github.com/bluelotus03/mlh-bootstrap-starter-kit
-
+![starterkit](https://user-images.githubusercontent.com/25125692/124698476-f0c83980-deb6-11eb-943e-b5817719719a.PNG)
 
 # 
 # 
@@ -59,6 +61,7 @@ A hub for listing projects and challenges I completed for this hackathon.
 ### Learning C# Basics 
 #### Replit: https://replit.com/@lilP3trie/LearningC#main.cs
 #### Demo: https://youtu.be/cMXv56wFpSs
+![c#](https://user-images.githubusercontent.com/25125692/124698496-fb82ce80-deb6-11eb-8f1f-7e58c443d36f.PNG)
 
 # 
 # 
@@ -66,7 +69,7 @@ A hub for listing projects and challenges I completed for this hackathon.
 ### Web Scraping with Python
 #### Repo: https://github.com/bluelotus03/web-scrape-python
 #### Demo: https://youtu.be/RaZTjqS1n0Q
-
+![webscrape](https://user-images.githubusercontent.com/25125692/124698513-02114600-deb7-11eb-9b31-366f6c022f01.PNG)
 
 # 
 # 
@@ -89,3 +92,4 @@ A hub for listing projects and challenges I completed for this hackathon.
 ### My Checklist using a Replit Template
 #### Note: Just learned how to edit things a bit, nothing drastic here
 #### Replit: https://VueJS-Starter.lilp3trie.repl.co
+![checklist](https://user-images.githubusercontent.com/25125692/124698534-0c334480-deb7-11eb-8c33-845391e3f8fe.PNG)
