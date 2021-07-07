@@ -1,9 +1,6 @@
 # mlh-init-2022-projects
 A hub for listing projects and challenges I completed for this hackathon.
-These are the ones that should be submitted to devpost.com, but as they have flagged so many of us at the hackathon for multiple submissions a day, I am putting them here for safe keeping. 
 
-# -----------------------------------------------------------
-# New - have not yet gotten hackathon credit
 # 
 ## "Build with a Starter Pack" (still in progress tonight - going to livestream shortly)
 ### Coffee Lovers Website
@@ -49,10 +46,6 @@ These are the ones that should be submitted to devpost.com, but as they have fla
 ### Website Starter Kit
 #### Repo: https://github.com/lil-p3tri3/mlh-bootstrap-starter-kit
 
-# 
-
-# ----------------------------------------------------------
-# Others - have already gotten hackathon credit
 # 
 ## "Explore a New Language"
 ### Learning C# Basics 
